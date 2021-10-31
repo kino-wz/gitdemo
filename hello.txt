@@ -1,3 +1,10 @@
 hello git! hello wz!
 
 branch 1
+
+master分支修改
+
+
+dev 分支修改
+
+master分支修改 2 
