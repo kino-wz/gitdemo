@@ -1,3 +1,5 @@
 hello git! hello wz!
 
 branch 1
+
+merge dev
